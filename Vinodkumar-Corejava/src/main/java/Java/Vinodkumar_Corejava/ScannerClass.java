@@ -17,8 +17,11 @@ public class ScannerClass {
 	int mark1=scan.nextInt();
 	System.out.println("enter your 10th percentage");
 	double  total=scan.nextDouble();
-	System.out.println("enter your aadar card number");
-	long aadhar=scan.nextLong();
+	System.out.println("enter your aadharname");
+	String key=scan.nextLine();
+//	System.out.println("enter your aadar card number");
+//	long aadhar=scan.nextLong();
+	
 	
 	System.out.println("School Name :"+name+ "10th total Mark: "+mark+" your tamil mark: "+mark1+" your percentage is"+total);
 	
