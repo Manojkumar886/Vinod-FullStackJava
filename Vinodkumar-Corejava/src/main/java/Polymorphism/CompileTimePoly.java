@@ -14,6 +14,10 @@ public class CompileTimePoly {
 	{
 		System.out.println("obverloading-overloading-overloading");
 	}
+	public void compile(String name)
+	{
+		System.out.println("Combine with multiple methods");
+	}
 
 	public static void main(String[] args) {	
 		// TODO Auto-generated method stub
@@ -21,6 +25,7 @@ public class CompileTimePoly {
 		poly.compile();
 		poly.compile(3.4f);
 		poly.compile(40.0);
+		poly.compile("Kaleem");
 
 	}
 

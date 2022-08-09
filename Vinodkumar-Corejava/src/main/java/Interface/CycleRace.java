@@ -1,6 +1,6 @@
 package Interface;
 
-public interface CycleRace extends Racing
+public interface CycleRace 
 {
 	public void Cyclerace();
 	
