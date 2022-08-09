@@ -22,9 +22,6 @@ public class UpdatingAnarray {
 		movies[pos]=data;
 		System.out.println(Arrays.toString(movies));
 		
-		
-		
-
 	}
 
 }
