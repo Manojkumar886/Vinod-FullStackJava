@@ -8,6 +8,9 @@ public class Narrowing {
 		int b=(int)a;
 		int h=99878;
 		short vf=(short)h;
+//		double ab=98765.87;
+//		byte ba=(byte)ab;
+//		System.out.println(ba);
 		System.out.println(h+"this is long number");
 		System.out.println(vf+"convert a long to short");
 		
