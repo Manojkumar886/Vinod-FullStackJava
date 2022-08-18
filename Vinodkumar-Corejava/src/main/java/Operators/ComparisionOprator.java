@@ -14,10 +14,6 @@ public class ComparisionOprator {
 		System.out.println(height<weight);//less operator
 		System.out.println(height>=weight);//greater then equal operator
 		System.out.println(height<=weight);//less then equal to
-		
-		
-		
-
 	}
 
 }
