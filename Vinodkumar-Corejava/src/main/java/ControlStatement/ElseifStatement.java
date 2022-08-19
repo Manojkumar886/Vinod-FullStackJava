@@ -11,11 +11,11 @@ public class ElseifStatement {
 		{
 			System.out.println("Kerala is nature State");
 		}
-		else if(city=="Telungana")
+		else if(city=="Tamilnadu")
 		{
 			System.out.println("Tamilnadu is Political State");
 		}
-		else if (a<b)
+		else if (a>b)
 		{
 			System.out.println("a is greater then of b");
 		}
