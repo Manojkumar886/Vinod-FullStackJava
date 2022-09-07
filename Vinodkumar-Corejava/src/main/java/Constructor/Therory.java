@@ -57,7 +57,7 @@ public class Therory {
 //				salary=incentive;
 //				name=nick;
 //				System.out.println("What is your mobile no:"+ phoneno+" what is your name: "+nick+" wht is your salary: "+incentive);
-//				
+//		
 //			}
 //			
 //			public static void main(String[] args) 
